@@ -18,4 +18,4 @@ See `Security_Report_Task1.pdf` for complete findings and solutions.
 Located in the `/screenshots` folder.
 
 ## 🔗 LinkedIn Post
-[View My Post](https://linkedin.com) *(Update later)
+[View My Post](https://linkedin.com) 
