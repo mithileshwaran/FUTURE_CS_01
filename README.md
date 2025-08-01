@@ -1,7 +1,16 @@
 # 🔐 Cyber Security Internship – Future Interns
 
-This repository contains **Task 1** for my Cyber Security Internship with **Future Interns**.  
-The goal of this task was to perform web application penetration testing and report common vulnerabilities.
+This repository contains **Task 1** for my Cyber Security Internship with **Future Interns**.
+
+---
+
+## 👤 Intern Details
+
+- **Intern Name:** Mithileshwaran  
+- **Internship Domain:** Cyber Security  
+- **Task Title:** Web Application Security Testing  
+- **Website Tested:** [https://demo.owasp-juice.shop](https://demo.owasp-juice.shop)  
+- **Date:** August 2025
 
 ---
 
@@ -19,7 +28,7 @@ Perform security testing on an intentionally vulnerable web application to ident
 
 ## 🛠 Tools Used
 
-- **Burp Suite**
+- **Burp Suite (Community Edition)**
 - **Manual Testing via Web Browser**
 - Target Application: **OWASP Juice Shop**
 
@@ -93,5 +102,3 @@ See the detailed report with findings and mitigation steps:
 ---
 
 > ⚠️ **Disclaimer:** This testing was conducted on a vulnerable lab environment (OWASP Juice Shop) strictly for learning and educational purposes.
-
-
